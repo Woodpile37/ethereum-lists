@@ -23,7 +23,7 @@
   "homepage": "https://github.com/MyEtherWallet/ethereum-lists#readme",
   "devDependencies": {
     "eslint-plugin-json": "^1.2.1",
-    "husky": "^0.14.3",
+    "husky": "^8.0.3",
     "pretty-quick": "^1.6.0",
     "web3": "^1.4.0"
   },
